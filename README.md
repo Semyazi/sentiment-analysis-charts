@@ -14,3 +14,4 @@ To create a sentiment analysis chart, execute: `python3 ./src/chart.py FILE_PATH
 For example, try: `python3 ./src/chart.py ./data/all_quiet_on_the_western_front.txt`
 
 ## Examples
+![plot](./examples/all_quiet_on_the_western_front.png)
